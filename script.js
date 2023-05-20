@@ -1,15 +1,5 @@
 //your JS code here. If required.
 
-// let option = document.getElementById("colorSelect").value;
-
-// function removeSelect(option) {
-// 	let select = document.getElementById("colorSelect");
-// 	select.remove(option);
-// }
-
-// document.getElementById("selectButton").addEventListener("click", removeSelect(option));
-
-
 document.getElementById("selectButton").addEventListener("click", removeSelect);
 
 function removeSelect() {
